@@ -1,1 +1,9 @@
-# LEARN CICD
+# Learn cicd
+
+## .github
+
+### workflows
+
+#### main.yml
+
+-
