@@ -1,6 +1,6 @@
 # Learning about cicd
 
-![CI/CD](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![CICD](https://github.com/meanjula/CICD/blob/master/.github/workflows/main.yml/badge.svg?branch=main)](https://github.com/meanjula/CICD/blob/master/.github/workflows/main.yml)
 
 ## .github
 
